@@ -10,3 +10,4 @@ This project demonstrates how to inspect and modify file and directory permissio
 
 ## 📄 Project Documentation
 The full documentation is available in the PDF below:
+File Permissions in Linux: [Click here](./File%20permissions%20in%20Linux.pdf)
