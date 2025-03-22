@@ -9,5 +9,5 @@ This project demonstrates how to inspect and modify file and directory permissio
 - Restricting access to sensitive directories
 
 ## 📄 Project Documentation
-The full documentation is available in the PDF:
-File Permissions in Linux: [Click here](./File%20permissions%20in%20Linux.pdf)
+The full documentation is available:
+[File Permissions in Linux](./File%20permissions%20in%20Linux.pdf)
