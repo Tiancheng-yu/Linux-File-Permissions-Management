@@ -8,3 +8,5 @@ This project demonstrates how to inspect and modify file and directory permissio
 - Handling hidden files and directories
 - Restricting access to sensitive directories
 
+## 📄 Project Documentation
+The full documentation is available in the PDF below:
